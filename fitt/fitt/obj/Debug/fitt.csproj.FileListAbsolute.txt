@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\fitt\fitt\obj\Debug\fitt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\fitt\fitt\obj\Debug\fitt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fitt\fitt\bin\Debug\fitt.exe.config
+C:\Users\User\source\repos\fitt\fitt\bin\Debug\fitt.exe
+C:\Users\User\source\repos\fitt\fitt\bin\Debug\fitt.pdb
+C:\Users\User\source\repos\fitt\fitt\obj\Debug\fitt.exe
+C:\Users\User\source\repos\fitt\fitt\obj\Debug\fitt.pdb
